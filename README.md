@@ -28,6 +28,7 @@ Compression:
 Input string:
 
 abcabcabcabc
+
 Window size: 6
 Lookahead buffer size: 4
 
@@ -38,6 +39,7 @@ Resulting Tags:
 <0, 0, c >
 <3, 3, a >
 <6, 3, null >
+
 Decompression:
 
 Input tags:
